@@ -5,3 +5,4 @@ repo in the working tree when saved locally
 then in the staging tree when added
 
 edited in branch "feature"
+edited for 2nd commit
