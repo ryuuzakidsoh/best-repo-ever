@@ -4,4 +4,4 @@ repo created after trail https://trailhead.salesforce.com/fr/content/learn/modul
 repo in the working tree when saved locally
 then in the staging tree when added
 
-edited in new-branch-1
+edited in branch "feature"
